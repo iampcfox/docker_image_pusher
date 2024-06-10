@@ -3,5 +3,17 @@ nginx
 mysql
 mongo
 redis
+postgres
+frps
+portainer
+lscr.io/linuxserver/webtop:ubuntu-xfce
+it-tools
+emqx
+rabbitmq
+ossrs/srs
+vaultwarden/server
+neosmemo/memos
+uptime-kuma
 pvapor/derper
 jonnyan404/verysync
+syncthing/syncthing
