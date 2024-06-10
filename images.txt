@@ -4,7 +4,6 @@ mysql
 mongo
 redis
 postgres
-frps
 portainer
 lscr.io/linuxserver/webtop:ubuntu-xfce
 it-tools
