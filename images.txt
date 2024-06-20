@@ -14,3 +14,4 @@ neosmemo/memos:stable
 pvapor/derper
 jonnyan404/verysync
 syncthing/syncthing
+frps
