@@ -10,8 +10,7 @@ emqx
 rabbitmq
 ossrs/srs
 vaultwarden/server
-neosmemo/memos
-uptime-kuma
+neosmemo/memos:stable
 pvapor/derper
 jonnyan404/verysync
 syncthing/syncthing
