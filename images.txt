@@ -19,3 +19,4 @@ louislam/uptime-kuma:1
 ghcr.io/corentinth/it-tools:latest
 portainer/portainer-ce:latest
 ghcr.io/jeessy2/ddns-go
+lanol/filecodebox:beta
