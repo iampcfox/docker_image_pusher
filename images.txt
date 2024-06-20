@@ -14,5 +14,8 @@ neosmemo/memos:stable
 pvapor/derper
 jonnyan404/verysync
 syncthing/syncthing
-stilleshan/frps
 snowdreamtech/frps
+louislam/uptime-kuma:1
+ghcr.io/corentinth/it-tools:latest
+portainer/portainer-ce:latest
+ghcr.io/jeessy2/ddns-go
