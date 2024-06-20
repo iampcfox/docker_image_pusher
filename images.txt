@@ -5,7 +5,7 @@ mongo
 redis
 postgres
 lscr.io/linuxserver/webtop:ubuntu-xfce
-it-tools
+dockurr/windows
 emqx
 rabbitmq
 ossrs/srs
