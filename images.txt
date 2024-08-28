@@ -1,3 +1,4 @@
+oracle/java:8
 alpine
 nginx
 mysql
