@@ -1,4 +1,4 @@
-oracle/java:8
+centos:7
 alpine
 nginx
 mysql
