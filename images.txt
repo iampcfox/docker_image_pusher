@@ -1,3 +1,4 @@
+minio/mc
 minio/minio:RELEASE.2024-01-31T20-20-33Z
 minio/minio
 m1k1o/neko:firefox
