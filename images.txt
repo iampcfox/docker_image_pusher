@@ -1,4 +1,4 @@
-jenkins/jenkins
+jenkins/jenkins:2.346.3
 minio/minio
 m1k1o/neko:firefox
 dbgate/dbgate
