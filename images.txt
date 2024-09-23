@@ -1,5 +1,5 @@
-nacos/nacos-server
 redis
+nacos/nacos-server
 apache/skywalking-oap-server
 apache/skywalking-ui
 apache/skywalking-java-agent
