@@ -1,4 +1,5 @@
 nacos/nacos-server
+redis
 apache/skywalking-oap-server
 apache/skywalking-ui
 apache/skywalking-java-agent
@@ -12,7 +13,6 @@ alpine
 nginx
 mysql
 mongo
-redis
 postgres
 lscr.io/linuxserver/webtop:ubuntu-xfce
 dockurr/windows
