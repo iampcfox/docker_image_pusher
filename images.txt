@@ -1,5 +1,6 @@
 redis
 nacos/nacos-server
+apache/skywalking-java-agent:9.3.0-java8
 apache/skywalking-oap-server
 apache/skywalking-ui
 apache/skywalking-java-agent
