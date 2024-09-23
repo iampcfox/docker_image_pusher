@@ -1,8 +1,8 @@
 redis
 nacos/nacos-server
-apache/skywalking-oap-server 10.0.0
-apache/skywalking-ui 10.0.0
-apache/skywalking-java-agent 9.2.0
+apache/skywalking-oap-server:10.0.0
+apache/skywalking-ui:10.0.0
+apache/skywalking-java-agent:9.2.0
 jenkins/jenkins
 minio/minio
 m1k1o/neko:firefox
