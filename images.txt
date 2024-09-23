@@ -1,3 +1,7 @@
+nacos
+apache/skywalking-oap-server
+apache/skywalking-ui
+apache/skywalking-java-agent
 jenkins/jenkins
 minio/minio
 m1k1o/neko:firefox
