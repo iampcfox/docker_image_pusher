@@ -1,14 +1,9 @@
 neosmemo/memos:0.21.0
 xhofe/alist
 redis
-nacos/nacos-server
-apache/skywalking-oap-server:10.0.0
-apache/skywalking-ui:10.0.0
-apache/skywalking-java-agent:9.2.0
 jenkins/jenkins
 minio/minio
 m1k1o/neko:firefox
-dbgate/dbgate
 ubuntu
 centos:7
 alpine
@@ -32,4 +27,3 @@ ghcr.io/corentinth/it-tools:latest
 portainer/portainer-ce:latest
 ghcr.io/jeessy2/ddns-go
 lanol/filecodebox:beta
-openjdk:8-jdk-alpine
