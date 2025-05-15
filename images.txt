@@ -1,5 +1,6 @@
 neosmemo/memos:0.21.0
 neosmemo/memos:0.24.3
+neosmemo/memos:stable
 xhofe/alist
 redis
 jenkins/jenkins
@@ -18,7 +19,6 @@ emqx
 rabbitmq
 ossrs/srs
 vaultwarden/server
-neosmemo/memos:stable
 pvapor/derper
 syncthing/syncthing
 snowdreamtech/frps
