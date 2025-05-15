@@ -1,4 +1,5 @@
 neosmemo/memos:0.21.0
+neosmemo/memos:0.24.3
 xhofe/alist
 redis
 jenkins/jenkins
@@ -19,11 +20,9 @@ ossrs/srs
 vaultwarden/server
 neosmemo/memos:stable
 pvapor/derper
-jonnyan404/verysync
 syncthing/syncthing
 snowdreamtech/frps
 louislam/uptime-kuma:1
 ghcr.io/corentinth/it-tools:latest
 portainer/portainer-ce:latest
 ghcr.io/jeessy2/ddns-go
-lanol/filecodebox:beta
