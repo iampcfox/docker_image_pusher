@@ -1,5 +1,5 @@
 openlistteam/openlist:latest
-openlistteam/openlist:4.0.5
+openlistteam/openlist:v4.0.5
 openlistteam/openlist:beta
 hslr/sun-panel:latest
 ghcr.io/gethomepage/homepage:v1.3.2
