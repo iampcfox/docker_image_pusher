@@ -1,3 +1,4 @@
+lejianwen/rustdesk-server-s6:latest
 openlistteam/openlist:latest
 openlistteam/openlist:v4.0.5
 openlistteam/openlist:beta
