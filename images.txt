@@ -1,7 +1,6 @@
 lejianwen/rustdesk-server-s6:latest
 openlistteam/openlist:latest
 openlistteam/openlist:v4.0.5
-openlistteam/openlist:beta
 hslr/sun-panel:latest
 ghcr.io/gethomepage/homepage:v1.3.2
 neosmemo/memos:0.21.0
