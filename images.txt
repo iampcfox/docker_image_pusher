@@ -1,13 +1,12 @@
-madrays/sun-panel-helper:latest
+docker.gitea.com/gitea:1.23.7
+apkdv/siyuan-unlock:latest
 lejianwen/rustdesk-server-s6:latest
 openlistteam/openlist:latest
 openlistteam/openlist:v4.0.5
 hslr/sun-panel:latest
 ghcr.io/gethomepage/homepage:v1.3.2
-neosmemo/memos:0.21.0
-neosmemo/memos:0.24.3
+neosmemo/memos:0.24.4
 neosmemo/memos:stable
-xhofe/alist
 redis
 jenkins/jenkins
 minio/minio
