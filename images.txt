@@ -1,3 +1,4 @@
+jeessy/ddns-go:v6.12.1
 joyqi/typecho:1.2.1-php8.0-apache
 docker.gitea.com/gitea:1.23.7
 apkdv/siyuan-unlock:latest
@@ -9,8 +10,6 @@ ghcr.io/gethomepage/homepage:v1.3.2
 neosmemo/memos:0.24.4
 neosmemo/memos:stable
 redis
-jenkins/jenkins
-minio/minio
 m1k1o/neko:firefox
 ubuntu
 centos:7
@@ -31,4 +30,3 @@ snowdreamtech/frps
 louislam/uptime-kuma:1
 ghcr.io/corentinth/it-tools:latest
 portainer/portainer-ce:latest
-ghcr.io/jeessy2/ddns-go
