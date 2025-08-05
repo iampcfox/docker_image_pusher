@@ -1,3 +1,4 @@
+1panel/openresty:1.27.1.2-2-1-focal
 jeessy/ddns-go:v6.12.1
 joyqi/typecho:1.2.1-php8.0-apache
 docker.gitea.com/gitea:1.23.7
