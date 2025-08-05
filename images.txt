@@ -1,3 +1,4 @@
+docker.n8n.io/n8nio/n8n
 1panel/openresty:1.27.1.2-2-1-focal
 jeessy/ddns-go:v6.12.1
 joyqi/typecho:1.2.1-php8.0-apache
