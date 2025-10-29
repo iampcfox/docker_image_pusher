@@ -1,3 +1,4 @@
+lejianwen/rustdesk-api
 homeassistant/home-assistant:latest
 n8nio/n8n
 1panel/openresty:1.27.1.2-2-1-focal
