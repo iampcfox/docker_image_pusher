@@ -1,9 +1,11 @@
+jeessy/ddns-go:v6.6.0
 lejianwen/rustdesk-api
 homeassistant/home-assistant:latest
 n8nio/n8n
 1panel/openresty:1.27.1.2-2-3-focal
 1panel/openresty:1.27.1.2-2-1-focal
 jeessy/ddns-go:v6.12.1
+jeessy/ddns-go:v6.6.0
 joyqi/typecho:1.2.1-php8.0-apache
 docker.gitea.com/gitea:1.23.7
 apkdv/siyuan-unlock:latest
