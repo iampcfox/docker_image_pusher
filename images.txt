@@ -1,4 +1,4 @@
-supergateway:latest
+supercorp/supergateway:latest
 snowdreamtech/frps:0.58.0
 snowdreamtech/frps:0.64.0
 jeessy/ddns-go:v6.6.0
