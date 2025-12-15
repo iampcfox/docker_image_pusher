@@ -1,3 +1,4 @@
+emqx/emqx:6.0.1
 nodered/node-red:latest
 esphome/esphome:latest
 homeassistant/home-assistant:2025.12.0
