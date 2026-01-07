@@ -1,5 +1,4 @@
 ghcr.io/ourongxing/newsnow:latest
-easynvr/easynvr:latest
 emqx/emqx:latest
 emqx/emqx:6.0.1
 nodered/node-red:latest
