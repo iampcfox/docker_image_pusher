@@ -1,3 +1,4 @@
+ghcr.io/blakeblackshear/frigate:stable
 ghcr.io/ourongxing/newsnow:latest
 emqx/emqx:latest
 emqx/emqx:6.0.1
