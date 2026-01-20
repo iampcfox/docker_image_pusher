@@ -1,3 +1,4 @@
+zerotier/zerotier:latest
 tailscale/tailscale:latest
 ghcr.io/blakeblackshear/frigate:stable
 ghcr.io/ourongxing/newsnow:latest
@@ -37,7 +38,6 @@ mongo
 postgres
 lscr.io/linuxserver/webtop:ubuntu-xfce
 dockurr/windows
-emqx
 rabbitmq
 ossrs/srs
 vaultwarden/server
