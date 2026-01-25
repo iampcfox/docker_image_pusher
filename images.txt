@@ -1,3 +1,4 @@
+snowdreamtech/frpc
 zerotier/zerotier:latest
 tailscale/tailscale:latest
 ghcr.io/blakeblackshear/frigate:stable
