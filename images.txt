@@ -1,3 +1,4 @@
+1panel/openclaw:2026.2.15
 snowdreamtech/frpc
 zerotier/zerotier:latest
 tailscale/tailscale:latest
