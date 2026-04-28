@@ -1,4 +1,4 @@
-apkdv/siyuan-unlock:v3.1.19
+apkdv/siyuan-unlock:v3.1.19-linuxarm64
 louislam/uptime-kuma:2.2.1
 1panel/openclaw:2026.2.15
 snowdreamtech/frpc
