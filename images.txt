@@ -1,3 +1,4 @@
+nexterm/aio:latest
 apkdv/siyuan-unlock:v3.1.19
 louislam/uptime-kuma:2.2.1
 1panel/openclaw:2026.2.15
