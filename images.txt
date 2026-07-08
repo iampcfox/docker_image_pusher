@@ -1,3 +1,4 @@
+qemux/qemu-arm
 node:18-slim
 node:18-alpine
 louislam/uptime-kuma:2.2.1
